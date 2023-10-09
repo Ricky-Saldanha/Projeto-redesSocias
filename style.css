@@ -38,5 +38,22 @@ section#telefone{
     width: 264px;
     height: 470px;
 }
-
-
+section.botoes img{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 15px 5px 5px black;
+    box-sizing: border-box;
+    
+}
+img:hover{
+    border: 4px solid white;
+    transform: translate(-7px, -7px);
+    transition: 0.5s;
+    box-shadow: 20px 10px 10px #00000047;
+}
+.botoes{
+    text-align: right;
+    border-color: rgb(4, 0, 255);
+}
