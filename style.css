@@ -31,16 +31,12 @@ section#telefone{
     width: 310px;
     height: 630px;
 }
-.video{
+.tela{
     position: relative;
+    top: 80px;
+    left: 21px;
+    width: 264px;
     height: 470px;
-    width: 266px;
 }
 
-iframe{
-    display: block;
-    position: absolute;
-    top: 16.5%;
-    left: 89.5vh;
-    height: 00%;
-    width: 60%}
+
